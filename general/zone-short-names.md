@@ -38,7 +38,7 @@ EverQuest live server zone names, their short names and IDs by expansion.
 | Nagafen's Lair | soldungb | 32 |
 | Misty Thicket (A) | misty | - |
 | North Ro (A) | nro | 34 |
-| South Ro (A) | southro | 35 |
+| South Ro (A) | sro | 35 |
 | Befallen (A) | befallen | 36 |
 | Oasis of Marr | oasis | 37 |
 | Toxxulia Forest | tox | - |
@@ -743,7 +743,7 @@ EverQuest live server zone names, their short names and IDs by expansion.
 | Ruins of Shadow Haven | shadowhaventwo | 851 |
 | Shar Vahl, Divided | sharvahltwo | 852 |
 | Shadeweaver's Tangle | shadeweavertwo | 854 |
-| Paludal Caverns | paludaltwo | 853 |
+| Paludal Depths | paludaltwo | 853 |
 | Deepshade | deepshade | 856 |
 | Firefall Pass | firefallpass | 857 |
 | Hollowshade Moor | hollowshadetwo | 858 |
@@ -753,13 +753,15 @@ EverQuest live server zone names, their short names and IDs by expansion.
 
 | Name | Short name | ID |
 |------|------------|----| 
-| Laurion Inn | laurioninn | 859 |
+| Laurion's Inn | laurioninn | 859 |
 | Timorous Falls | timorousfalls | 865 |
 | Ankexfen Keep | ankexfen | 860 |
 | Moors of Nokk | moorsofnokk | 863 |
 | Unkempt Woods | unkemptwoods | 864 |
 | The Hero's Forge | herosforge | 862 |
 | Pal'Lomen | pallomen | 861 |
+| Tides of Time | anniversarytower | ? |
+| Boldven's Hideout | guildhallsng | ? |
 
 ## The Outer Brood
 
