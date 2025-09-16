@@ -1,0 +1,3287 @@
+---
+search:
+    exclude: true
+---
+
+# Commands
+
+These are the commands included by default with ["Live" EverQuest](../index.md). For all commands on this site, see [all commands](../../../commands/index.md).
+
+!!! note "Abbreviated commands"
+    EverQuest often accepts abbreviated commands. For example, [/emote](cmd-emote.md) can be shortened to `/emot`, `/emo`, `/em`, etc. We don't document abbreviations unless they're noteworthy. *We do document alternative commands, like `:` and `/me`.*
+
+<a href="cmd-achievements">
+{% 
+  include-markdown "projects/everquest/commands/cmd-achievements.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-achievements.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-achievements.md') }}
+
+<a href="cmd-aclearcompare">
+{% 
+  include-markdown "projects/everquest/commands/cmd-aclearcompare.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-aclearcompare.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-aclearcompare.md') }}
+
+<a href="cmd-acompare">
+{% 
+  include-markdown "projects/everquest/commands/cmd-acompare.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-acompare.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-acompare.md') }}
+
+<a href="cmd-addraidlooter">
+{% 
+  include-markdown "projects/everquest/commands/cmd-addraidlooter.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-addraidlooter.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-addraidlooter.md') }}
+
+<a href="cmd-advloot">
+{% 
+  include-markdown "projects/everquest/commands/cmd-advloot.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-advloot.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-advloot.md') }}
+
+<a href="cmd-afk">
+{% 
+  include-markdown "projects/everquest/commands/cmd-afk.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-afk.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-afk.md') }}
+
+<a href="cmd-aggrolock">
+{% 
+  include-markdown "projects/everquest/commands/cmd-aggrolock.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-aggrolock.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-aggrolock.md') }}
+
+<a href="cmd-aggrometer">
+{% 
+  include-markdown "projects/everquest/commands/cmd-aggrometer.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-aggrometer.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-aggrometer.md') }}
+
+<a href="cmd-alarm">
+{% 
+  include-markdown "projects/everquest/commands/cmd-alarm.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-alarm.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-alarm.md') }}
+
+<a href="cmd-alternateadv">
+{% 
+  include-markdown "projects/everquest/commands/cmd-alternateadv.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-alternateadv.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-alternateadv.md') }}
+
+<a href="cmd-anonymous">
+{% 
+  include-markdown "projects/everquest/commands/cmd-anonymous.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-anonymous.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-anonymous.md') }}
+
+<a href="cmd-assist">
+{% 
+  include-markdown "projects/everquest/commands/cmd-assist.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-assist.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-assist.md') }}
+
+<a href="cmd-attack">
+{% 
+  include-markdown "projects/everquest/commands/cmd-attack.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-attack.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-attack.md') }}
+
+<a href="cmd-auction">
+{% 
+  include-markdown "projects/everquest/commands/cmd-auction.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-auction.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-auction.md') }}
+
+<a href="cmd-autobank">
+{% 
+  include-markdown "projects/everquest/commands/cmd-autobank.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-autobank.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-autobank.md') }}
+
+<a href="cmd-autoconsent">
+{% 
+  include-markdown "projects/everquest/commands/cmd-autoconsent.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-autoconsent.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-autoconsent.md') }}
+
+<a href="cmd-autofire">
+{% 
+  include-markdown "projects/everquest/commands/cmd-autofire.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-autofire.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-autofire.md') }}
+
+<a href="cmd-autoinventory">
+{% 
+  include-markdown "projects/everquest/commands/cmd-autoinventory.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-autoinventory.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-autoinventory.md') }}
+
+<a href="cmd-autojoin">
+{% 
+  include-markdown "projects/everquest/commands/cmd-autojoin.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-autojoin.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-autojoin.md') }}
+
+<a href="cmd-autoskill">
+{% 
+  include-markdown "projects/everquest/commands/cmd-autoskill.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-autoskill.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-autoskill.md') }}
+
+<a href="cmd-autosplit">
+{% 
+  include-markdown "projects/everquest/commands/cmd-autosplit.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-autosplit.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-autosplit.md') }}
+
+<a href="cmd-bandolier">
+{% 
+  include-markdown "projects/everquest/commands/cmd-bandolier.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-bandolier.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-bandolier.md') }}
+
+<a href="cmd-barter">
+{% 
+  include-markdown "projects/everquest/commands/cmd-barter.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-barter.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-barter.md') }}
+
+<a href="cmd-bazaar">
+{% 
+  include-markdown "projects/everquest/commands/cmd-bazaar.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-bazaar.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-bazaar.md') }}
+
+<a href="cmd-beta">
+{% 
+  include-markdown "projects/everquest/commands/cmd-beta.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-beta.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-beta.md') }}
+
+<a href="cmd-betabuff">
+{% 
+  include-markdown "projects/everquest/commands/cmd-betabuff.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-betabuff.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-betabuff.md') }}
+
+<a href="cmd-blockspell">
+{% 
+  include-markdown "projects/everquest/commands/cmd-blockspell.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-blockspell.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-blockspell.md') }}
+
+<a href="cmd-bodytint">
+{% 
+  include-markdown "projects/everquest/commands/cmd-bodytint.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-bodytint.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-bodytint.md') }}
+
+<a href="cmd-book">
+{% 
+  include-markdown "projects/everquest/commands/cmd-book.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-book.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-book.md') }}
+
+<a href="cmd-bugreport">
+{% 
+  include-markdown "projects/everquest/commands/cmd-bugreport.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-bugreport.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-bugreport.md') }}
+
+<a href="cmd-buyer">
+{% 
+  include-markdown "projects/everquest/commands/cmd-buyer.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-buyer.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-buyer.md') }}
+
+<a href="cmd-calendar">
+{% 
+  include-markdown "projects/everquest/commands/cmd-calendar.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-calendar.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-calendar.md') }}
+
+<a href="cmd-camp">
+{% 
+  include-markdown "projects/everquest/commands/cmd-camp.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-camp.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-camp.md') }}
+
+<a href="cmd-cast">
+{% 
+  include-markdown "projects/everquest/commands/cmd-cast.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-cast.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-cast.md') }}
+
+<a href="cmd-changefamiliarname">
+{% 
+  include-markdown "projects/everquest/commands/cmd-changefamiliarname.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-changefamiliarname.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-changefamiliarname.md') }}
+
+<a href="cmd-changemercname">
+{% 
+  include-markdown "projects/everquest/commands/cmd-changemercname.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-changemercname.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-changemercname.md') }}
+
+<a href="cmd-changename">
+{% 
+  include-markdown "projects/everquest/commands/cmd-changename.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-changename.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-changename.md') }}
+
+<a href="cmd-changepetname">
+{% 
+  include-markdown "projects/everquest/commands/cmd-changepetname.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-changepetname.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-changepetname.md') }}
+
+<a href="cmd-channel">
+{% 
+  include-markdown "projects/everquest/commands/cmd-channel.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-channel.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-channel.md') }}
+
+<a href="cmd-charinfo">
+{% 
+  include-markdown "projects/everquest/commands/cmd-charinfo.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-charinfo.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-charinfo.md') }}
+
+<a href="cmd-chat">
+{% 
+  include-markdown "projects/everquest/commands/cmd-chat.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-chat.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-chat.md') }}
+
+<a href="cmd-chatfontsize">
+{% 
+  include-markdown "projects/everquest/commands/cmd-chatfontsize.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-chatfontsize.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-chatfontsize.md') }}
+
+<a href="cmd-claim">
+{% 
+  include-markdown "projects/everquest/commands/cmd-claim.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-claim.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-claim.md') }}
+
+<a href="cmd-clearallchat">
+{% 
+  include-markdown "projects/everquest/commands/cmd-clearallchat.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-clearallchat.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-clearallchat.md') }}
+
+<a href="cmd-clearchat">
+{% 
+  include-markdown "projects/everquest/commands/cmd-clearchat.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-clearchat.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-clearchat.md') }}
+
+<a href="cmd-clearmarks">
+{% 
+  include-markdown "projects/everquest/commands/cmd-clearmarks.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-clearmarks.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-clearmarks.md') }}
+
+<a href="cmd-clickthrough">
+{% 
+  include-markdown "projects/everquest/commands/cmd-clickthrough.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-clickthrough.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-clickthrough.md') }}
+
+<a href="cmd-combatmusic">
+{% 
+  include-markdown "projects/everquest/commands/cmd-combatmusic.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-combatmusic.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-combatmusic.md') }}
+
+<a href="cmd-compareexpedraid">
+{% 
+  include-markdown "projects/everquest/commands/cmd-compareexpedraid.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-compareexpedraid.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-compareexpedraid.md') }}
+
+<a href="cmd-comparetaskraid">
+{% 
+  include-markdown "projects/everquest/commands/cmd-comparetaskraid.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-comparetaskraid.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-comparetaskraid.md') }}
+
+<a href="cmd-consent">
+{% 
+  include-markdown "projects/everquest/commands/cmd-consent.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-consent.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-consent.md') }}
+
+<a href="cmd-consider">
+{% 
+  include-markdown "projects/everquest/commands/cmd-consider.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-consider.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-consider.md') }}
+
+<a href="cmd-copylayout">
+{% 
+  include-markdown "projects/everquest/commands/cmd-copylayout.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-copylayout.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-copylayout.md') }}
+
+<a href="cmd-corpse">
+{% 
+  include-markdown "projects/everquest/commands/cmd-corpse.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-corpse.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-corpse.md') }}
+
+<a href="cmd-corpsedrag">
+{% 
+  include-markdown "projects/everquest/commands/cmd-corpsedrag.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-corpsedrag.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-corpsedrag.md') }}
+
+<a href="cmd-corpsedrop">
+{% 
+  include-markdown "projects/everquest/commands/cmd-corpsedrop.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-corpsedrop.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-corpsedrop.md') }}
+
+<a href="cmd-decaycorpse">
+{% 
+  include-markdown "projects/everquest/commands/cmd-decaycorpse.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-decaycorpse.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-decaycorpse.md') }}
+
+<a href="cmd-decline">
+{% 
+  include-markdown "projects/everquest/commands/cmd-decline.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-decline.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-decline.md') }}
+
+<a href="cmd-delegategmarknpc">
+{% 
+  include-markdown "projects/everquest/commands/cmd-delegategmarknpc.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-delegategmarknpc.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-delegategmarknpc.md') }}
+
+<a href="cmd-delegategmasterlooter">
+{% 
+  include-markdown "projects/everquest/commands/cmd-delegategmasterlooter.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-delegategmasterlooter.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-delegategmasterlooter.md') }}
+
+<a href="cmd-delegatermarknpc">
+{% 
+  include-markdown "projects/everquest/commands/cmd-delegatermarknpc.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-delegatermarknpc.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-delegatermarknpc.md') }}
+
+<a href="cmd-delegatermasterlooter">
+{% 
+  include-markdown "projects/everquest/commands/cmd-delegatermasterlooter.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-delegatermasterlooter.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-delegatermasterlooter.md') }}
+
+<a href="cmd-deny">
+{% 
+  include-markdown "projects/everquest/commands/cmd-deny.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-deny.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-deny.md') }}
+
+<a href="cmd-destroyitem">
+{% 
+  include-markdown "projects/everquest/commands/cmd-destroyitem.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-destroyitem.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-destroyitem.md') }}
+
+<a href="cmd-disband">
+{% 
+  include-markdown "projects/everquest/commands/cmd-disband.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-disband.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-disband.md') }}
+
+<a href="cmd-discipline">
+{% 
+  include-markdown "projects/everquest/commands/cmd-discipline.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-discipline.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-discipline.md') }}
+
+<a href="cmd-dismount">
+{% 
+  include-markdown "projects/everquest/commands/cmd-dismount.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-dismount.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-dismount.md') }}
+
+<a href="cmd-doability">
+{% 
+  include-markdown "projects/everquest/commands/cmd-doability.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-doability.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-doability.md') }}
+
+<a href="cmd-duck">
+{% 
+  include-markdown "projects/everquest/commands/cmd-duck.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-duck.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-duck.md') }}
+
+<a href="cmd-duel">
+{% 
+  include-markdown "projects/everquest/commands/cmd-duel.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-duel.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-duel.md') }}
+
+<a href="cmd-dynamiclights">
+{% 
+  include-markdown "projects/everquest/commands/cmd-dynamiclights.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-dynamiclights.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-dynamiclights.md') }}
+
+<a href="cmd-dzaddplayer">
+{% 
+  include-markdown "projects/everquest/commands/cmd-dzaddplayer.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-dzaddplayer.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-dzaddplayer.md') }}
+
+<a href="cmd-dzhelp">
+{% 
+  include-markdown "projects/everquest/commands/cmd-dzhelp.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-dzhelp.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-dzhelp.md') }}
+
+<a href="cmd-dzlisttimers">
+{% 
+  include-markdown "projects/everquest/commands/cmd-dzlisttimers.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-dzlisttimers.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-dzlisttimers.md') }}
+
+<a href="cmd-dzmakeleader">
+{% 
+  include-markdown "projects/everquest/commands/cmd-dzmakeleader.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-dzmakeleader.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-dzmakeleader.md') }}
+
+<a href="cmd-dzplayerlist">
+{% 
+  include-markdown "projects/everquest/commands/cmd-dzplayerlist.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-dzplayerlist.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-dzplayerlist.md') }}
+
+<a href="cmd-dzquit">
+{% 
+  include-markdown "projects/everquest/commands/cmd-dzquit.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-dzquit.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-dzquit.md') }}
+
+<a href="cmd-dzremoveplayer">
+{% 
+  include-markdown "projects/everquest/commands/cmd-dzremoveplayer.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-dzremoveplayer.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-dzremoveplayer.md') }}
+
+<a href="cmd-dzswapplayer">
+{% 
+  include-markdown "projects/everquest/commands/cmd-dzswapplayer.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-dzswapplayer.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-dzswapplayer.md') }}
+
+<a href="cmd-emote">
+{% 
+  include-markdown "projects/everquest/commands/cmd-emote.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-emote.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-emote.md') }}
+
+<a href="cmd-exit">
+{% 
+  include-markdown "projects/everquest/commands/cmd-exit.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-exit.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-exit.md') }}
+
+<a href="cmd-extralife">
+{% 
+  include-markdown "projects/everquest/commands/cmd-extralife.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-extralife.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-extralife.md') }}
+
+<a href="cmd-faction">
+{% 
+  include-markdown "projects/everquest/commands/cmd-faction.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-faction.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-faction.md') }}
+
+<a href="cmd-familiar">
+{% 
+  include-markdown "projects/everquest/commands/cmd-familiar.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-familiar.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-familiar.md') }}
+
+<a href="cmd-fastdrop">
+{% 
+  include-markdown "projects/everquest/commands/cmd-fastdrop.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-fastdrop.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-fastdrop.md') }}
+
+<a href="cmd-feedback">
+{% 
+  include-markdown "projects/everquest/commands/cmd-feedback.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-feedback.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-feedback.md') }}
+
+<a href="cmd-filter">
+{% 
+  include-markdown "projects/everquest/commands/cmd-filter.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-filter.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-filter.md') }}
+
+<a href="cmd-finditem">
+{% 
+  include-markdown "projects/everquest/commands/cmd-finditem.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-finditem.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-finditem.md') }}
+
+<a href="cmd-findpc">
+{% 
+  include-markdown "projects/everquest/commands/cmd-findpc.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-findpc.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-findpc.md') }}
+
+<a href="cmd-follow">
+{% 
+  include-markdown "projects/everquest/commands/cmd-follow.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-follow.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-follow.md') }}
+
+<a href="cmd-fontface">
+{% 
+  include-markdown "projects/everquest/commands/cmd-fontface.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-fontface.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-fontface.md') }}
+
+<a href="cmd-friends">
+{% 
+  include-markdown "projects/everquest/commands/cmd-friends.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-friends.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-friends.md') }}
+
+<a href="cmd-fsay">
+{% 
+  include-markdown "projects/everquest/commands/cmd-fsay.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-fsay.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-fsay.md') }}
+
+<a href="cmd-fullscreen">
+{% 
+  include-markdown "projects/everquest/commands/cmd-fullscreen.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-fullscreen.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-fullscreen.md') }}
+
+<a href="cmd-gems">
+{% 
+  include-markdown "projects/everquest/commands/cmd-gems.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-gems.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-gems.md') }}
+
+<a href="cmd-getguildmotd">
+{% 
+  include-markdown "projects/everquest/commands/cmd-getguildmotd.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-getguildmotd.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-getguildmotd.md') }}
+
+<a href="cmd-gmarknpc">
+{% 
+  include-markdown "projects/everquest/commands/cmd-gmarknpc.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-gmarknpc.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-gmarknpc.md') }}
+
+<a href="cmd-groupleader">
+{% 
+  include-markdown "projects/everquest/commands/cmd-groupleader.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-groupleader.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-groupleader.md') }}
+
+<a href="cmd-grouproles">
+{% 
+  include-markdown "projects/everquest/commands/cmd-grouproles.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-grouproles.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-grouproles.md') }}
+
+<a href="cmd-gsay">
+{% 
+  include-markdown "projects/everquest/commands/cmd-gsay.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-gsay.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-gsay.md') }}
+
+<a href="cmd-guidehelp">
+{% 
+  include-markdown "projects/everquest/commands/cmd-guidehelp.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-guidehelp.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-guidehelp.md') }}
+
+<a href="cmd-guildcreate">
+{% 
+  include-markdown "projects/everquest/commands/cmd-guildcreate.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-guildcreate.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-guildcreate.md') }}
+
+<a href="cmd-guilddelete">
+{% 
+  include-markdown "projects/everquest/commands/cmd-guilddelete.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-guilddelete.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-guilddelete.md') }}
+
+<a href="cmd-guilddemote">
+{% 
+  include-markdown "projects/everquest/commands/cmd-guilddemote.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-guilddemote.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-guilddemote.md') }}
+
+<a href="cmd-guildinvite">
+{% 
+  include-markdown "projects/everquest/commands/cmd-guildinvite.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-guildinvite.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-guildinvite.md') }}
+
+<a href="cmd-guildleader">
+{% 
+  include-markdown "projects/everquest/commands/cmd-guildleader.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-guildleader.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-guildleader.md') }}
+
+<a href="cmd-guildmotd">
+{% 
+  include-markdown "projects/everquest/commands/cmd-guildmotd.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-guildmotd.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-guildmotd.md') }}
+
+<a href="cmd-guildpromote">
+{% 
+  include-markdown "projects/everquest/commands/cmd-guildpromote.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-guildpromote.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-guildpromote.md') }}
+
+<a href="cmd-guildremove">
+{% 
+  include-markdown "projects/everquest/commands/cmd-guildremove.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-guildremove.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-guildremove.md') }}
+
+<a href="cmd-guildsay">
+{% 
+  include-markdown "projects/everquest/commands/cmd-guildsay.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-guildsay.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-guildsay.md') }}
+
+<a href="cmd-guildstatus">
+{% 
+  include-markdown "projects/everquest/commands/cmd-guildstatus.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-guildstatus.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-guildstatus.md') }}
+
+<a href="cmd-hail">
+{% 
+  include-markdown "projects/everquest/commands/cmd-hail.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-hail.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-hail.md') }}
+
+<a href="cmd-help">
+{% 
+  include-markdown "projects/everquest/commands/cmd-help.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-help.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-help.md') }}
+
+<a href="cmd-hidecorpses">
+{% 
+  include-markdown "projects/everquest/commands/cmd-hidecorpses.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-hidecorpses.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-hidecorpses.md') }}
+
+<a href="cmd-hidemodels">
+{% 
+  include-markdown "projects/everquest/commands/cmd-hidemodels.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-hidemodels.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-hidemodels.md') }}
+
+<a href="cmd-hotbutton">
+{% 
+  include-markdown "projects/everquest/commands/cmd-hotbutton.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-hotbutton.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-hotbutton.md') }}
+
+<a href="cmd-ignore">
+{% 
+  include-markdown "projects/everquest/commands/cmd-ignore.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-ignore.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-ignore.md') }}
+
+<a href="cmd-indicator">
+{% 
+  include-markdown "projects/everquest/commands/cmd-indicator.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-indicator.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-indicator.md') }}
+
+<a href="cmd-inspect">
+{% 
+  include-markdown "projects/everquest/commands/cmd-inspect.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-inspect.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-inspect.md') }}
+
+<a href="cmd-inspectbuffs">
+{% 
+  include-markdown "projects/everquest/commands/cmd-inspectbuffs.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-inspectbuffs.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-inspectbuffs.md') }}
+
+<a href="cmd-invite">
+{% 
+  include-markdown "projects/everquest/commands/cmd-invite.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-invite.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-invite.md') }}
+
+<a href="cmd-itemoverflow">
+{% 
+  include-markdown "projects/everquest/commands/cmd-itemoverflow.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-itemoverflow.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-itemoverflow.md') }}
+
+<a href="cmd-keyrings">
+{% 
+  include-markdown "projects/everquest/commands/cmd-keyrings.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-keyrings.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-keyrings.md') }}
+
+<a href="cmd-keys">
+{% 
+  include-markdown "projects/everquest/commands/cmd-keys.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-keys.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-keys.md') }}
+
+<a href="cmd-kickplayers">
+{% 
+  include-markdown "projects/everquest/commands/cmd-kickplayers.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-kickplayers.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-kickplayers.md') }}
+
+<a href="cmd-language">
+{% 
+  include-markdown "projects/everquest/commands/cmd-language.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-language.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-language.md') }}
+
+<a href="cmd-leaverealestate">
+{% 
+  include-markdown "projects/everquest/commands/cmd-leaverealestate.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-leaverealestate.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-leaverealestate.md') }}
+
+<a href="cmd-lfgroup">
+{% 
+  include-markdown "projects/everquest/commands/cmd-lfgroup.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-lfgroup.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-lfgroup.md') }}
+
+<a href="cmd-lfguild">
+{% 
+  include-markdown "projects/everquest/commands/cmd-lfguild.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-lfguild.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-lfguild.md') }}
+
+<a href="cmd-loadskin">
+{% 
+  include-markdown "projects/everquest/commands/cmd-loadskin.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-loadskin.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-loadskin.md') }}
+
+<a href="cmd-location">
+{% 
+  include-markdown "projects/everquest/commands/cmd-location.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-location.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-location.md') }}
+
+<a href="cmd-log">
+{% 
+  include-markdown "projects/everquest/commands/cmd-log.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-log.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-log.md') }}
+
+<a href="cmd-loginterval">
+{% 
+  include-markdown "projects/everquest/commands/cmd-loginterval.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-loginterval.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-loginterval.md') }}
+
+<a href="cmd-loot">
+{% 
+  include-markdown "projects/everquest/commands/cmd-loot.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-loot.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-loot.md') }}
+
+<a href="cmd-lootnodrop">
+{% 
+  include-markdown "projects/everquest/commands/cmd-lootnodrop.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-lootnodrop.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-lootnodrop.md') }}
+
+<a href="cmd-makeleader">
+{% 
+  include-markdown "projects/everquest/commands/cmd-makeleader.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-makeleader.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-makeleader.md') }}
+
+<a href="cmd-makeraidleader">
+{% 
+  include-markdown "projects/everquest/commands/cmd-makeraidleader.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-makeraidleader.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-makeraidleader.md') }}
+
+<a href="cmd-map">
+{% 
+  include-markdown "projects/everquest/commands/cmd-map.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-map.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-map.md') }}
+
+<a href="cmd-marketplace">
+{% 
+  include-markdown "projects/everquest/commands/cmd-marketplace.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-marketplace.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-marketplace.md') }}
+
+<a href="cmd-mcicontrol">
+{% 
+  include-markdown "projects/everquest/commands/cmd-mcicontrol.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-mcicontrol.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-mcicontrol.md') }}
+
+<a href="cmd-melody">
+{% 
+  include-markdown "projects/everquest/commands/cmd-melody.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-melody.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-melody.md') }}
+
+<a href="cmd-memspellset">
+{% 
+  include-markdown "projects/everquest/commands/cmd-memspellset.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-memspellset.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-memspellset.md') }}
+
+<a href="cmd-memspellslot">
+{% 
+  include-markdown "projects/everquest/commands/cmd-memspellslot.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-memspellslot.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-memspellslot.md') }}
+
+<a href="cmd-mercassist">
+{% 
+  include-markdown "projects/everquest/commands/cmd-mercassist.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-mercassist.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-mercassist.md') }}
+
+<a href="cmd-merclog">
+{% 
+  include-markdown "projects/everquest/commands/cmd-merclog.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-merclog.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-merclog.md') }}
+
+<a href="cmd-mercswitch">
+{% 
+  include-markdown "projects/everquest/commands/cmd-mercswitch.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-mercswitch.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-mercswitch.md') }}
+
+<a href="cmd-mercwindows">
+{% 
+  include-markdown "projects/everquest/commands/cmd-mercwindows.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-mercwindows.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-mercwindows.md') }}
+
+<a href="cmd-mixahead">
+{% 
+  include-markdown "projects/everquest/commands/cmd-mixahead.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-mixahead.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-mixahead.md') }}
+
+<a href="cmd-motd">
+{% 
+  include-markdown "projects/everquest/commands/cmd-motd.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-motd.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-motd.md') }}
+
+<a href="cmd-mousespeed">
+{% 
+  include-markdown "projects/everquest/commands/cmd-mousespeed.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-mousespeed.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-mousespeed.md') }}
+
+<a href="cmd-mp3">
+{% 
+  include-markdown "projects/everquest/commands/cmd-mp3.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-mp3.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-mp3.md') }}
+
+<a href="cmd-netstats">
+{% 
+  include-markdown "projects/everquest/commands/cmd-netstats.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-netstats.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-netstats.md') }}
+
+<a href="cmd-note">
+{% 
+  include-markdown "projects/everquest/commands/cmd-note.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-note.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-note.md') }}
+
+<a href="cmd-offlinemode">
+{% 
+  include-markdown "projects/everquest/commands/cmd-offlinemode.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-offlinemode.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-offlinemode.md') }}
+
+<a href="cmd-ooc">
+{% 
+  include-markdown "projects/everquest/commands/cmd-ooc.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-ooc.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-ooc.md') }}
+
+<a href="cmd-open">
+{% 
+  include-markdown "projects/everquest/commands/cmd-open.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-open.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-open.md') }}
+
+<a href="cmd-outputfile">
+{% 
+  include-markdown "projects/everquest/commands/cmd-outputfile.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-outputfile.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-outputfile.md') }}
+
+<a href="cmd-overseer">
+{% 
+  include-markdown "projects/everquest/commands/cmd-overseer.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-overseer.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-overseer.md') }}
+
+<a href="cmd-particledensity">
+{% 
+  include-markdown "projects/everquest/commands/cmd-particledensity.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-particledensity.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-particledensity.md') }}
+
+<a href="cmd-pause">
+{% 
+  include-markdown "projects/everquest/commands/cmd-pause.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-pause.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-pause.md') }}
+
+<a href="cmd-pet">
+{% 
+  include-markdown "projects/everquest/commands/cmd-pet.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-pet.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-pet.md') }}
+
+<a href="cmd-petition">
+{% 
+  include-markdown "projects/everquest/commands/cmd-petition.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-petition.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-petition.md') }}
+
+<a href="cmd-pickzone">
+{% 
+  include-markdown "projects/everquest/commands/cmd-pickzone.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-pickzone.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-pickzone.md') }}
+
+<a href="cmd-pickzonefewestplayers">
+{% 
+  include-markdown "projects/everquest/commands/cmd-pickzonefewestplayers.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-pickzonefewestplayers.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-pickzonefewestplayers.md') }}
+
+<a href="cmd-played">
+{% 
+  include-markdown "projects/everquest/commands/cmd-played.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-played.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-played.md') }}
+
+<a href="cmd-quit">
+{% 
+  include-markdown "projects/everquest/commands/cmd-quit.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-quit.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-quit.md') }}
+
+<a href="cmd-racechange">
+{% 
+  include-markdown "projects/everquest/commands/cmd-racechange.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-racechange.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-racechange.md') }}
+
+<a href="cmd-raidaccept">
+{% 
+  include-markdown "projects/everquest/commands/cmd-raidaccept.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-raidaccept.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-raidaccept.md') }}
+
+<a href="cmd-raiddecline">
+{% 
+  include-markdown "projects/everquest/commands/cmd-raiddecline.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-raiddecline.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-raiddecline.md') }}
+
+<a href="cmd-raiddisband">
+{% 
+  include-markdown "projects/everquest/commands/cmd-raiddisband.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-raiddisband.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-raiddisband.md') }}
+
+<a href="cmd-raidinvite">
+{% 
+  include-markdown "projects/everquest/commands/cmd-raidinvite.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-raidinvite.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-raidinvite.md') }}
+
+<a href="cmd-raidwindow">
+{% 
+  include-markdown "projects/everquest/commands/cmd-raidwindow.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-raidwindow.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-raidwindow.md') }}
+
+<a href="cmd-random">
+{% 
+  include-markdown "projects/everquest/commands/cmd-random.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-random.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-random.md') }}
+
+<a href="cmd-realestate">
+{% 
+  include-markdown "projects/everquest/commands/cmd-realestate.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-realestate.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-realestate.md') }}
+
+<a href="cmd-removeraidlooter">
+{% 
+  include-markdown "projects/everquest/commands/cmd-removeraidlooter.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-removeraidlooter.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-removeraidlooter.md') }}
+
+<a href="cmd-renameguild">
+{% 
+  include-markdown "projects/everquest/commands/cmd-renameguild.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-renameguild.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-renameguild.md') }}
+
+<a href="cmd-reply">
+{% 
+  include-markdown "projects/everquest/commands/cmd-reply.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-reply.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-reply.md') }}
+
+<a href="cmd-report">
+{% 
+  include-markdown "projects/everquest/commands/cmd-report.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-report.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-report.md') }}
+
+<a href="cmd-rewards">
+{% 
+  include-markdown "projects/everquest/commands/cmd-rewards.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-rewards.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-rewards.md') }}
+
+<a href="cmd-rewind">
+{% 
+  include-markdown "projects/everquest/commands/cmd-rewind.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-rewind.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-rewind.md') }}
+
+<a href="cmd-rmarknpc">
+{% 
+  include-markdown "projects/everquest/commands/cmd-rmarknpc.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-rmarknpc.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-rmarknpc.md') }}
+
+<a href="cmd-roleplay">
+{% 
+  include-markdown "projects/everquest/commands/cmd-roleplay.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-roleplay.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-roleplay.md') }}
+
+<a href="cmd-rsay">
+{% 
+  include-markdown "projects/everquest/commands/cmd-rsay.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-rsay.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-rsay.md') }}
+
+<a href="cmd-rtarget">
+{% 
+  include-markdown "projects/everquest/commands/cmd-rtarget.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-rtarget.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-rtarget.md') }}
+
+<a href="cmd-run">
+{% 
+  include-markdown "projects/everquest/commands/cmd-run.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-run.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-run.md') }}
+
+<a href="cmd-safelock">
+{% 
+  include-markdown "projects/everquest/commands/cmd-safelock.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-safelock.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-safelock.md') }}
+
+<a href="cmd-say">
+{% 
+  include-markdown "projects/everquest/commands/cmd-say.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-say.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-say.md') }}
+
+<a href="cmd-servertransfer">
+{% 
+  include-markdown "projects/everquest/commands/cmd-servertransfer.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-servertransfer.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-servertransfer.md') }}
+
+<a href="cmd-setloottype">
+{% 
+  include-markdown "projects/everquest/commands/cmd-setloottype.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-setloottype.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-setloottype.md') }}
+
+<a href="cmd-setstartcity">
+{% 
+  include-markdown "projects/everquest/commands/cmd-setstartcity.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-setstartcity.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-setstartcity.md') }}
+
+<a href="cmd-shadows">
+{% 
+  include-markdown "projects/everquest/commands/cmd-shadows.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-shadows.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-shadows.md') }}
+
+<a href="cmd-shield">
+{% 
+  include-markdown "projects/everquest/commands/cmd-shield.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-shield.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-shield.md') }}
+
+<a href="cmd-shieldgroup">
+{% 
+  include-markdown "projects/everquest/commands/cmd-shieldgroup.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-shieldgroup.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-shieldgroup.md') }}
+
+<a href="cmd-shout">
+{% 
+  include-markdown "projects/everquest/commands/cmd-shout.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-shout.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-shout.md') }}
+
+<a href="cmd-showgrass">
+{% 
+  include-markdown "projects/everquest/commands/cmd-showgrass.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-showgrass.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-showgrass.md') }}
+
+<a href="cmd-shownames">
+{% 
+  include-markdown "projects/everquest/commands/cmd-shownames.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-shownames.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-shownames.md') }}
+
+<a href="cmd-shownpcnames">
+{% 
+  include-markdown "projects/everquest/commands/cmd-shownpcnames.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-shownpcnames.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-shownpcnames.md') }}
+
+<a href="cmd-showspelleffects">
+{% 
+  include-markdown "projects/everquest/commands/cmd-showspelleffects.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-showspelleffects.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-showspelleffects.md') }}
+
+<a href="cmd-sit">
+{% 
+  include-markdown "projects/everquest/commands/cmd-sit.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-sit.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-sit.md') }}
+
+<a href="cmd-split">
+{% 
+  include-markdown "projects/everquest/commands/cmd-split.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-split.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-split.md') }}
+
+<a href="cmd-stance">
+{% 
+  include-markdown "projects/everquest/commands/cmd-stance.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-stance.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-stance.md') }}
+
+<a href="cmd-stand">
+{% 
+  include-markdown "projects/everquest/commands/cmd-stand.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-stand.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-stand.md') }}
+
+<a href="cmd-stopcast">
+{% 
+  include-markdown "projects/everquest/commands/cmd-stopcast.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-stopcast.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-stopcast.md') }}
+
+<a href="cmd-stopdisc">
+{% 
+  include-markdown "projects/everquest/commands/cmd-stopdisc.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-stopdisc.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-stopdisc.md') }}
+
+<a href="cmd-stopsocial">
+{% 
+  include-markdown "projects/everquest/commands/cmd-stopsocial.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-stopsocial.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-stopsocial.md') }}
+
+<a href="cmd-stopsong">
+{% 
+  include-markdown "projects/everquest/commands/cmd-stopsong.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-stopsong.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-stopsong.md') }}
+
+<a href="cmd-stoptracking">
+{% 
+  include-markdown "projects/everquest/commands/cmd-stoptracking.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-stoptracking.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-stoptracking.md') }}
+
+<a href="cmd-surname">
+{% 
+  include-markdown "projects/everquest/commands/cmd-surname.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-surname.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-surname.md') }}
+
+<a href="cmd-swarm">
+{% 
+  include-markdown "projects/everquest/commands/cmd-swarm.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-swarm.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-swarm.md') }}
+
+<a href="cmd-system">
+{% 
+  include-markdown "projects/everquest/commands/cmd-system.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-system.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-system.md') }}
+
+<a href="cmd-target">
+{% 
+  include-markdown "projects/everquest/commands/cmd-target.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-target.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-target.md') }}
+
+<a href="cmd-targetoftarget">
+{% 
+  include-markdown "projects/everquest/commands/cmd-targetoftarget.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-targetoftarget.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-targetoftarget.md') }}
+
+<a href="cmd-taskaddplayer">
+{% 
+  include-markdown "projects/everquest/commands/cmd-taskaddplayer.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-taskaddplayer.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-taskaddplayer.md') }}
+
+<a href="cmd-taskhelp">
+{% 
+  include-markdown "projects/everquest/commands/cmd-taskhelp.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-taskhelp.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-taskhelp.md') }}
+
+<a href="cmd-taskmakeleader">
+{% 
+  include-markdown "projects/everquest/commands/cmd-taskmakeleader.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-taskmakeleader.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-taskmakeleader.md') }}
+
+<a href="cmd-taskoverlay">
+{% 
+  include-markdown "projects/everquest/commands/cmd-taskoverlay.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-taskoverlay.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-taskoverlay.md') }}
+
+<a href="cmd-taskplayerlist">
+{% 
+  include-markdown "projects/everquest/commands/cmd-taskplayerlist.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-taskplayerlist.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-taskplayerlist.md') }}
+
+<a href="cmd-taskquit">
+{% 
+  include-markdown "projects/everquest/commands/cmd-taskquit.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-taskquit.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-taskquit.md') }}
+
+<a href="cmd-taskremoveplayer">
+{% 
+  include-markdown "projects/everquest/commands/cmd-taskremoveplayer.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-taskremoveplayer.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-taskremoveplayer.md') }}
+
+<a href="cmd-tasktimers">
+{% 
+  include-markdown "projects/everquest/commands/cmd-tasktimers.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-tasktimers.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-tasktimers.md') }}
+
+<a href="cmd-tell">
+{% 
+  include-markdown "projects/everquest/commands/cmd-tell.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-tell.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-tell.md') }}
+
+<a href="cmd-testbuffme">
+{% 
+  include-markdown "projects/everquest/commands/cmd-testbuffme.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-testbuffme.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-testbuffme.md') }}
+
+<a href="cmd-testcopy">
+{% 
+  include-markdown "projects/everquest/commands/cmd-testcopy.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-testcopy.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-testcopy.md') }}
+
+<a href="cmd-time">
+{% 
+  include-markdown "projects/everquest/commands/cmd-time.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-time.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-time.md') }}
+
+<a href="cmd-toggleinspect">
+{% 
+  include-markdown "projects/everquest/commands/cmd-toggleinspect.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-toggleinspect.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-toggleinspect.md') }}
+
+<a href="cmd-trackfilter">
+{% 
+  include-markdown "projects/everquest/commands/cmd-trackfilter.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-trackfilter.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-trackfilter.md') }}
+
+<a href="cmd-trackmercs">
+{% 
+  include-markdown "projects/everquest/commands/cmd-trackmercs.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-trackmercs.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-trackmercs.md') }}
+
+<a href="cmd-trackpets">
+{% 
+  include-markdown "projects/everquest/commands/cmd-trackpets.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-trackpets.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-trackpets.md') }}
+
+<a href="cmd-trackplayers">
+{% 
+  include-markdown "projects/everquest/commands/cmd-trackplayers.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-trackplayers.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-trackplayers.md') }}
+
+<a href="cmd-tracksort">
+{% 
+  include-markdown "projects/everquest/commands/cmd-tracksort.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-tracksort.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-tracksort.md') }}
+
+<a href="cmd-trader">
+{% 
+  include-markdown "projects/everquest/commands/cmd-trader.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-trader.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-trader.md') }}
+
+<a href="cmd-tribute">
+{% 
+  include-markdown "projects/everquest/commands/cmd-tribute.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-tribute.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-tribute.md') }}
+
+<a href="cmd-trophy">
+{% 
+  include-markdown "projects/everquest/commands/cmd-trophy.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-trophy.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-trophy.md') }}
+
+<a href="cmd-ttell">
+{% 
+  include-markdown "projects/everquest/commands/cmd-ttell.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-ttell.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-ttell.md') }}
+
+<a href="cmd-ui">
+{% 
+  include-markdown "projects/everquest/commands/cmd-ui.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-ui.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-ui.md') }}
+
+<a href="cmd-url">
+{% 
+  include-markdown "projects/everquest/commands/cmd-url.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-url.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-url.md') }}
+
+<a href="cmd-useadvlooting">
+{% 
+  include-markdown "projects/everquest/commands/cmd-useadvlooting.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-useadvlooting.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-useadvlooting.md') }}
+
+<a href="cmd-useitem">
+{% 
+  include-markdown "projects/everquest/commands/cmd-useitem.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-useitem.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-useitem.md') }}
+
+<a href="cmd-usercolor">
+{% 
+  include-markdown "projects/everquest/commands/cmd-usercolor.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-usercolor.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-usercolor.md') }}
+
+<a href="cmd-usetarget">
+{% 
+  include-markdown "projects/everquest/commands/cmd-usetarget.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-usetarget.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-usetarget.md') }}
+
+<a href="cmd-usurp">
+{% 
+  include-markdown "projects/everquest/commands/cmd-usurp.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-usurp.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-usurp.md') }}
+
+<a href="cmd-vgroup">
+{% 
+  include-markdown "projects/everquest/commands/cmd-vgroup.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-vgroup.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-vgroup.md') }}
+
+<a href="cmd-viewport">
+{% 
+  include-markdown "projects/everquest/commands/cmd-viewport.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-viewport.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-viewport.md') }}
+
+<a href="cmd-vplay">
+{% 
+  include-markdown "projects/everquest/commands/cmd-vplay.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-vplay.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-vplay.md') }}
+
+<a href="cmd-vraid">
+{% 
+  include-markdown "projects/everquest/commands/cmd-vraid.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-vraid.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-vraid.md') }}
+
+<a href="cmd-vtell">
+{% 
+  include-markdown "projects/everquest/commands/cmd-vtell.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-vtell.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-vtell.md') }}
+
+<a href="cmd-waypoint">
+{% 
+  include-markdown "projects/everquest/commands/cmd-waypoint.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-waypoint.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-waypoint.md') }}
+
+<a href="cmd-who">
+{% 
+  include-markdown "projects/everquest/commands/cmd-who.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-who.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-who.md') }}
+
+<a href="cmd-whotarget">
+{% 
+  include-markdown "projects/everquest/commands/cmd-whotarget.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-whotarget.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-whotarget.md') }}
+
+<a href="cmd-www">
+{% 
+  include-markdown "projects/everquest/commands/cmd-www.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-www.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-www.md') }}
+
+<a href="cmd-xtarget">
+{% 
+  include-markdown "projects/everquest/commands/cmd-xtarget.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-xtarget.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-xtarget.md') }}
+
+<a href="cmd-yell">
+{% 
+  include-markdown "projects/everquest/commands/cmd-yell.md" 
+  start="<!--cmd-syntax-start-->" 
+  end="<!--cmd-syntax-end-->" 
+%}
+</a>
+:    {% include-markdown "projects/everquest/commands/cmd-yell.md" 
+        start="<!--cmd-desc-start-->" 
+        end="<!--cmd-desc-end-->" 
+        trailing-newlines=false 
+     %} {{ readMore('projects/everquest/commands/cmd-yell.md') }}
