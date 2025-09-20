@@ -1,0 +1,5 @@
+docs_repository: "https://github.com/RedGuides/everquest-docs"
+docs_edit_uri: "edit/main/"
+docs_path_transform:
+  from: "projects/everquest/"
+  to: ""
