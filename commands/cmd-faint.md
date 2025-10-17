@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /faint
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/faint
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+Causes your character to perform a fainting animation.
 <!--cmd-desc-end-->

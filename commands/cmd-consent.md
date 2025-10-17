@@ -22,23 +22,24 @@ Gives permission to [drag](cmd-corpse.md) your current corpse. For current and f
 ## Options
 
 **`<player>`**
-: The name of a player you'd trust with your corpse. Think of it like a will.
+:   The name of a player you'd trust with your corpse. Think of it like a will.
 
 **group**
-: Trust your group with your corpse.
+:   Trust your group with your corpse.
 
 **guild**
-: Trust your guild with your corpse.
+:   Trust your guild with your corpse.
 
 **raid**
-: Trust your raid with your corpse.
+:   Trust your raid with your corpse.
 
 **fellowship**
-: Trust your fellowship with your corpse.
+:   Trust your fellowship with your corpse.
 
 ## Examples
 
-!!! example "`/consent Bobby` - Bobby can now drag your corpse."
+!!! example
+    `/consent Bobby` - Bobby can now drag your corpse.
 
 ## See also
 

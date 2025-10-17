@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /pizza
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/pizza
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+Performs the pizza emote.
 <!--cmd-desc-end-->

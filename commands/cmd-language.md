@@ -16,5 +16,5 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Shows your current language. If a number `<#>` is supplied, it will change your language, and `help` will show a [list of languages](../../macroquest/reference/general/languages.md).
+Displays the current language for the chat window. If a number `<#>` is supplied, it will change your language, and `help` will show a [list of languages](../../macroquest/reference/general/languages.md).
 <!--cmd-desc-end-->

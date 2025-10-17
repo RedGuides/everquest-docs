@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /ttth
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/ttth
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+Triggers the ttth emote.
 <!--cmd-desc-end-->

@@ -16,7 +16,7 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Display a yellow path to a [location](cmd-location.md) `<y>`, `<x>`, and optionally `<z>` coordinates. Must use commas. The location will also be marked on your map.
+Draw a find path to the [location](cmd-location.md) specified by `<y>`, `<x>`, and optionally `<z>` coordinates. Must use commas. The location is also marked on your map.
 <!--cmd-desc-end-->
 
 ## Options

@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /yes
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/yes
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+Performs the yes emote.
 <!--cmd-desc-end-->

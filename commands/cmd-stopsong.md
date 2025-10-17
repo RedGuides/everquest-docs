@@ -16,5 +16,5 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Stop singing current song, mostly a concern for Bards.
+Stop singing the current song or certain Alternate Advancement abilities that behave like songs. Mostly a concern for Bards.
 <!--cmd-desc-end-->

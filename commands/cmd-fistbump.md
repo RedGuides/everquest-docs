@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /fistbump
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/fistbump
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
-<!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+<!--cmd-desc-start--->
+Performs a fist bump emote.
 <!--cmd-desc-end-->

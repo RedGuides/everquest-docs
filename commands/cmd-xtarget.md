@@ -16,7 +16,7 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Add spawns to the Extended Target window by name, role, automatically, or from a saved list. Common abbreviation: <span class=accent>/xtar</span>
+Add spawns to the Extended Target window by name, role, automatically, or from saved target sets. Common abbreviation: <span class=accent>/xtar</span>
 <!--cmd-desc-end-->
 
 ## Options

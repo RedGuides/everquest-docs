@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /no
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/no
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+Causes your character to disagree.
 <!--cmd-desc-end-->

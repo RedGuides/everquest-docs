@@ -9,17 +9,20 @@ tags:
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/hidemodels { players | pets | mercenaries | all } [ none | afk | afk noncombat | noncombat ]
+/hidemodels { none | players | pets | mercenaries | familiars | all } [ none | afk | afk noncombat | noncombat ]
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Hide the specified models. Optionally, do so in certain situations.
+Hide or un-hide the specified models based on conditions. 
 <!--cmd-desc-end-->
 
 ## Options
+
+**none**
+:   Un-hide all players, pets, mercenaries, and familiars.
 
 **players** `[none | afk | afk noncombat | noncombat]`
 :   Hide player models
@@ -30,19 +33,20 @@ Hide the specified models. Optionally, do so in certain situations.
 **mercenaries** `[none | afk | afk noncombat | noncombat]`
 :   Hide mercenary models
 
+**familiars** `[none | afk | afk noncombat | noncombat]`
+:   Hide familiar models
+
 **all** `[none | afk | afk noncombat | noncombat]`
-:   Hide all models
+:   Hide all models, including players, pets, mercenaries, and familiars.
 
-!!! example "Examples"
+## Examples
 
-    `/hidemodels all none`
-    :   Don't hide any models
+!!! example
+    `/hidemodels all none` - Don't hide any models
 
-    `/hidemodels players afk`
-    :   Hide players when they're AFK
+    `/hidemodels players afk` - Hide players when they're AFK
 
-    `/hidemodels pets`
-    :   Hide pet models
+    `/hidemodels pets` - Hide pet models
 
 ## See also
 

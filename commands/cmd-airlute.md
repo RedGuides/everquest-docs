@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /airlute
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/airlute
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+Plays the air lute emote.
 <!--cmd-desc-end-->

@@ -16,7 +16,7 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Immediately closes the game similar to [/exit](cmd-exit.md).
+Immediately closes the game. The full command name must be used. This command is functionally identical to [/exit](cmd-exit.md).
 <!--cmd-desc-end-->
 
 ## See also

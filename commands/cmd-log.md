@@ -16,7 +16,7 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Toggles output to `Logs\eqlog_<name>_<server>.txt`
+Toggles output to `Logs\eqlog_<name>_<server>.txt`. The logging state persists across logins.
 <!--cmd-desc-end-->
 
 ## See also

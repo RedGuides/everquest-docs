@@ -9,14 +9,18 @@ tags:
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/consider
+/consider [<name>]
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Considers your current target, where you'll find an indication of your faction standing as well as an indication of the target's relative level and strength. Common abbreviation: <span class=accent>/con</span>
+Considers your current target, which displays an indication of your faction standing as well as an indication of the target's relative level and strength.  
+
+The target can be specified by name, including pet names, and can use [chat variables](../general/chat-variables.md).  
+
+Common abbreviation: <span class=accent>/con</span>
 <!--cmd-desc-end-->
 
 ## Examples

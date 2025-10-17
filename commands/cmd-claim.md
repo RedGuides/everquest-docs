@@ -16,5 +16,5 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Opens the Claim Window where you can claim in-game prizes for various reasons. Usually gained from special game editions or in-game events.
+Opens the Claim Window where you can claim in-game prizes. (Prizes are often from special game editions, events, and promotions.)
 <!--cmd-desc-end-->

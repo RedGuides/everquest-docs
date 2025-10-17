@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /pie
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/pie
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+Triggers the pie emote.
 <!--cmd-desc-end-->

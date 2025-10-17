@@ -16,5 +16,5 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Display network ping times and packet loss.
+Display network ping times and packet loss. Output is directed to a single chat filter. Common abbreviation: <span class=accent>/netstat</span>
 <!--cmd-desc-end-->

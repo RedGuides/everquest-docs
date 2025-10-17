@@ -16,7 +16,7 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Search for characters in the current zone or across all zones.
+Search for characters in the current zone or across all zones. The command can also be invoked on a player by clicking their name in a chat window.
 <!--cmd-desc-end-->
 
 ## Options

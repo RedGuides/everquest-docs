@@ -16,7 +16,7 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Outputs your bind point(s) and origin city. There's also an abbreviation extended by MacroQuest: [`/char`](../../macroquest/reference/commands/char.md)
+Outputs your bind point(s) and current origin city. The origin city reflects any changes made with the [`/setstartcity`](cmd-setstartcity.md) command. There's also an abbreviation extended by MacroQuest: [`/char`](../../macroquest/reference/commands/char.md)
 <!--cmd-desc-end-->
 
 ## Examples

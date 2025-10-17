@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /maybe
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/maybe
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+Performs the "maybe" emote.
 <!--cmd-desc-end-->

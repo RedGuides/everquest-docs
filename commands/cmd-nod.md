@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /nod
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/nod
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+Causes your character to nod in agreement or acknowledgment.
 <!--cmd-desc-end-->

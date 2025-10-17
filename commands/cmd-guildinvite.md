@@ -16,7 +16,7 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Invites a player to the guild. Must be in same zone.
+Invites a player to your guild.
 <!--cmd-desc-end-->
 
 ## See also

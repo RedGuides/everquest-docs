@@ -16,5 +16,5 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Sets the log file write interval. A value of 0 will write immediately to the file without any delay. The default log file write interval is 1 second(s).
+Throttles log file writes by setting the interval between file operations to reduce frequent writes. A value of 0 disables throttling and writes immediately. The default interval is 1 second.
 <!--cmd-desc-end-->

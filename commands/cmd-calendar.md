@@ -16,5 +16,5 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Opens the in-game Calendar window. The event calendar lists all active events; Title, date (from/to), time (from/to) and brief description. All dates and times are displayed in your local time zone.
+Opens the in-game Calendar window. The calendar displays all event alerts for the year. For progression servers, it also indicates when future expansions will unlock.  
 <!--cmd-desc-end-->

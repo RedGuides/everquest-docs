@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /announce
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/announce
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
-<!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+<!--cmd-desc-start--->
+Toggles the current status of the announce join/leavefeature for chat channels.
 <!--cmd-desc-end-->

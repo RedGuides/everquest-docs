@@ -16,22 +16,21 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-"/advloot" by itself will toggle the Advanced Loot window. It can also set loot options for all items in the personal or shared advanced loot window.
+The /advloot command toggles the Advanced Loot System window. It can also set loot options for all items in the personal or shared loot lists.
 <!--cmd-desc-end-->
 
 ## Loot Options
 
 **personal setallto** `<loot option>`
-:   Controls the personal loot window, setallto affects all items in loot window.  
-
-    Loot options: [loot | leave | aneed | agreed | never]
+:   Controls the personal loot list. setallto affects all items in the personal loot window.  
+    Loot options: [loot | leave | aneed | agreed | never]  
 
 **shared setallto** `<loot option>`
-:   Controls the shared loot window, setallto affects all items in loot window.  
+:   Controls the shared loot list. setallto affects all items in the shared loot window.  
 
-    Loot options: [need | greed | no | aneed | agreed | never | ask | roll | askroll | autoaskroll | freegrab | leave | `<PlayerName>`]  
+    Loot options: [need | greed | no | aneed | agreed | never | ask | roll | askroll | autoaskroll | freegrab | leave | leaveall | `<PlayerName>`]  
 
-    `<PlayerName>` will give all items in the window to the specified player.
+
 
 !!! example "Examples"
 

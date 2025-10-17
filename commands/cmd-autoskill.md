@@ -9,7 +9,7 @@ tags:
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/autoskill [<skill name>]
+/autoskill [<skill name> [on|off]]
 ```
 <!--cmd-syntax-end-->
 

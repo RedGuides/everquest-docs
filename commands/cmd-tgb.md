@@ -3,18 +3,18 @@ tags:
   - command
 ---
 
-# /keys
+# /tgb
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keys
+/tgb
 ```
 <!--cmd-syntax-end-->
 
 ## Description
 
 <!--cmd-desc-start-->
-Toggles the display of the General > Keys achievements category in the achievement window.
+Toggles the automatic targeting of group members for buff applications. Alternate command: <span class=accent>/targetgroupbuff</span>
 <!--cmd-desc-end-->

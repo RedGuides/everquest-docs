@@ -9,7 +9,7 @@ tags:
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/alternateadv {on <#> | off | list | activate <#> | buy | buyall}
+/alternateadv {on <#> | off | list | activate <id | name> | buy | buyall}
 ```
 <!--cmd-syntax-end-->
 
@@ -26,7 +26,7 @@ Use, list, or purchase Alternate Advancements (AA). This can also be carried out
 | `On <#>` | Sets the level of experience gained going towards AA at 100%, unless you specify a different percentage. |
 | `Off` | All experience gained will be set to go towards your normal experience bar. Experience to AA will be 0%. |
 | `List` | Provides a list of all Alternate Advancement (AA) abilities available to this character; their respective number, title, description, and AA (point) cost per level. |
-| `Activate <#>` | The command `/alternateadv act #` can be used to activate an AA ability using its corresponding AA number. Abbreviated: `act` |
+| `Activate <id_or_name>` | Can be used to activate an AA ability using its corresponding AA number or name. Note: For toggle AAs, this command will toggle the state (enable or disable) but cannot specify the desired state. Be cautious when using partial name matching as it may not activate the intended AA. Abbreviated: `act` |
 | `Buy <#>` | This option is used to buy AA points in a specified AA ability group (the same ID used for alt activate, the one found with "list") |
 | `Buyall <#>` | This option is used to buy out the entire AA ability group specified, assuming you have enough points. |
 

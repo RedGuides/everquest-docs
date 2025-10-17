@@ -16,8 +16,10 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Assists a player or NPC, changing your current target to their target. Also toggles auto-attack on assist. If no option specified, it will assist your current target.
+Assists a player or NPC, changing your current target to their target. All variants of the /assist command function at the same distance. Also toggles auto-attack on assist. If no option specified, it will assist your current target.
 <!--cmd-desc-end-->
+
+!!! note "The options 'group', 'raid', and 'main' prioritize the respective roles over player names that begin with those words."
 
 ## Options
 

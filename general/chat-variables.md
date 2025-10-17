@@ -4,7 +4,7 @@
 EverQuest includes a few chat variables which are mostly useful for pronouns.
 
 **%m**
-::    Supposed to output the name of your target's pet, though doesn't work. Use MacroQuest's [`${Target.Pet}`](../../macroquest/reference/data-types/datatype-target.md) instead.
+::    You, or your target's pet. Similar to MacroQuest's [`${Target.Pet}`](../../macroquest/reference/data-types/datatype-target.md).
 
 **%o**
 ::    Outputs the objective gender-specific pronoun of your target (Him, Her, It).
@@ -13,7 +13,7 @@ EverQuest includes a few chat variables which are mostly useful for pronouns.
 ::    Outputs the possessive gender-specific pronoun of your target (His, Her, Its).
 
 **%r**
-::    Outputs the race of your target, but only works on players. For NPCs, use MacroQuest's [`${Target.Race}`](../../macroquest/reference/data-types/datatype-target.md) instead.
+::    The race of your target. Similar to MacroQuest's [`${Target.Race}`](../../macroquest/reference/data-types/datatype-target.md).
 
 **%s**
 ::    Outputs the subjective gender-specific pronoun for the target (He, She, It).
