@@ -15,6 +15,6 @@ tags:
 
 ## Description
 
-<!--cmd-desc-start--->
+<!--cmd-desc-start-->
 Toggles the current status of the announce join/leavefeature for chat channels.
 <!--cmd-desc-end-->

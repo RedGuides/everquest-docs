@@ -15,6 +15,6 @@ tags:
 
 ## Description
 
-<!--cmd-desc-start--->
+<!--cmd-desc-start-->
 Performs a fist bump emote.
 <!--cmd-desc-end-->

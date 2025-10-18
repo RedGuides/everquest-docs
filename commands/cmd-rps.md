@@ -15,6 +15,6 @@ tags:
 
 ## Description
 
-<!--cmd-desc-start--->
+<!--cmd-desc-start-->
 Performs the rock-paper-scissors emote.
-<!--cmd-desc-end--->
+<!--cmd-desc-end-->
