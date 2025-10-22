@@ -3,13 +3,13 @@ tags:
   - command
 ---
 
-# /keyring
+# /keyrings
 
 ## Syntax
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/keyring [<tab>]
+/keyrings [<tab>]
 ```
 <!--cmd-syntax-end-->
 
