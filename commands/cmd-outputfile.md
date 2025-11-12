@@ -43,7 +43,7 @@ Export data to the default or specified file. The file is saved as `<player>_<se
 :   Inventory items, items from all keyrings, Dragon's Hoard items if the Dragon's Hoard window is open, and Personal Tradeskill Depot items if the depot is loaded.
 
 **`missingspells`**
-:   Outputs a list of all spells and combat abilities usable by your class up to your current level that you haven't yet scribed in your spellbook. Entries are sorted by level and then alphabetically by name. Does not include spells that cannot be scribed.
+:   Outputs a list of all implemented spells and combat abilities usable by your class up to your current level that you haven't yet scribed in your spellbook. Entries are sorted by level and then alphabetically by name. Does not include spells that cannot be scribed.
 
 **`raid`**
 :   Raid data
@@ -55,7 +55,7 @@ Export data to the default or specified file. The file is saved as `<player>_<se
 :   Outputs the names of tradeskill recipes you know if they qualify you for additional skill points past the cap.
 
 **`spellbook`**
-:   Outputs all spells and combat abilities in your spell book. Entries are sorted by level and then alphabetically by name.
+:   Outputs all implemented spells and combat abilities in your spell book. Entries are sorted by level and then alphabetically by name.
 
 ## Examples
 
