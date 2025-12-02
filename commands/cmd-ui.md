@@ -16,7 +16,7 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-If no option provided, displays your current UI scale (1.00 default.) Can also adjust your UI scale or reload the HTML.
+If no option provided, displays your current UI scale (1.00 default.) Can also adjust your UI scale or reload the HTML to apply changes made to UI configuration files, such as font settings defined in CSS.
 <!--cmd-desc-end-->
 
 ## Options
@@ -29,7 +29,8 @@ If no option provided, displays your current UI scale (1.00 default.) Can also a
 
 ## Examples
 
-!!! example "`/ui scale 1.5` - Set your UI scale to 1.5, which is 50% larger than default"
+!!! example
+    `/ui scale 1.5` - Set your UI scale to 1.5, which is 50% larger than default
 
 ## See also
 
