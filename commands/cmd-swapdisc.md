@@ -9,7 +9,7 @@ tags:
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/swapdisc [ability name]
+/swapdisc <name|id>
 ```
 <!--cmd-syntax-end-->
 
