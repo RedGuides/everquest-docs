@@ -40,7 +40,7 @@ Export data to the default or specified file. The file is saved as `<player>_<se
 :   Exports data for the Guild Lobby.
 
 **`inventory`**
-:   Inventory items, items from all keyrings, Dragon's Hoard items if the Dragon's Hoard window is open, and Personal Tradeskill Depot items if the depot is loaded.
+:   Exports inventory items, including items from all keyrings, Dragon's Hoard items if the Dragon's Hoard window is open, and Personal Tradeskill Depot items if the depot is loaded. Items are listed in the search order used when loading equipment sets: currently equipped items first, followed by the Equipment Key Ring, then inventory bags.
 
 **`missingspells`**
 :   Outputs a list of all spells and combat abilities usable by your class up to your current level that you haven't yet scribed in your spellbook. Entries are sorted by level and then alphabetically by name. Does not include spells that cannot be scribed.
