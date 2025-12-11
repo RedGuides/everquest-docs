@@ -774,6 +774,17 @@ EverQuest live server zone names, their short names and IDs by expansion.
 | The Chambers of Puissance | puissance | 874 |
 | The Gilded Spire | gildedspire | 875 |
 
+## Shattering of Ro
+
+| Name | Short name | ID |
+|------|------------|----| 
+| Candlemaker's Workshop | candlemakers | 879 |
+| Scarred Grove | embattledpogrowth | 880 |
+| Arcstone, Shattered Isles | arcstoneruins | 881 |
+| Ruined Relic | ruinedrelic | 882 |
+| The Vortex | vortex | 883 |
+| Labyrinth of Spite | spite | 884 |
+
 ## See Also
 
 - [Server short names](./server-short-names.md)
