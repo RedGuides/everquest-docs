@@ -760,7 +760,7 @@ EverQuest live server zone names, their short names and IDs by expansion.
 | Unkempt Woods | unkemptwoods | 864 |
 | The Hero's Forge | herosforge | 862 |
 | Pal'Lomen | pallomen | 861 |
-| Tides of Time | anniversarytower | ? |
+| Tides of Time | anniversarytower | 869 |
 | Boldven's Hideout | guildhallsng | ? |
 
 ## The Outer Brood
