@@ -9,13 +9,14 @@ Located in the root everquest folder, `eqclient.ini` holds global settings for a
 [Defaults]
 EnableSystemCommand=0  # (1)
 UseWASDDefault=1
-GraphicsMemoryModeSwitch=1
+GraphicsMemoryModeSwitch=1  # (17)
 APVOptimizations=TRUE
 DisableWestBugFix=0
 Sound=1
 ClientCore0=-1  # (2)
 ClientCore1=13  # (3)
 TextureQuality=1
+TextureCache=TRUE
 VertexShaders=TRUE
 14PixelShaders=TRUE
 20PixelShaders=TRUE
@@ -65,6 +66,14 @@ UseLuclinIksarMale=1
 UseLuclinIksarFemale=1
 UseLuclinVahShirMale=1
 UseLuclinVahShirFemale=1
+LoadArmor17=FALSE  # (9)
+LoadArmor18=FALSE  # (10)
+LoadArmor19=FALSE  # (11)
+LoadArmor20=FALSE  # (12)
+LoadArmor21=FALSE  # (13)
+LoadArmor22=FALSE  # (14)
+LoadArmor23=FALSE  # (15)
+LoadArmor240=FALSE  # (16)
 UISkin=Default  # (5)
 UseNewUIEngine=1  # (6)
 DefaultChannel=8
@@ -136,14 +145,26 @@ Automatic=0
 6.  Set to 0 to use the old User Interface Engine
 7.  Text color settings continue for User_2 through User_130+ (truncated for brevity)
 8.  Turns off "April fools" event font
+9.  Velious Leather 1 (pre-Luclin models)
+10. Velious Chain 1 (pre-Luclin models)
+11. Velious Plate 1 (pre-Luclin models)
+12. Velious Leather 2 (pre-Luclin models)
+13. Velious Chain 2 (pre-Luclin models)
+14. Velious Plate 2 (pre-Luclin models)
+15. Velious Monk (pre-Luclin models)
+16. Velious Helmets (pre-Luclin models)
+17. Graphics memory tuning via `GraphicsMemoryMode` and optionally `MemoryIni` (see `Memory.ini` below).
 
 ## Other config files
 
+**`Resources\Memory.ini`**
+:   Controls graphics memory mode tuning, even in the DX11-era. For details and recommended settings, see: Fanra's [Graphics and performance settings guide](https://everquest.fanra.info/wiki/Graphics_and_performance_settings_guide).
+
 **`<character>_<server>.ini`**
-::    This file stores character-specific settings, such as 'Actions' window settings, abilities, blocked buffs, blocked pet buffs, disciplines, hotbar settings, socials, and saved spell sets. It is located in the root EverQuest folder: **`C:\EverQuest\<character>_<server>.ini`**, where `<character>` represents the character name, and `<server>` represents the [server short name](general/server-short-names.md).
+:   This file stores character-specific settings, such as 'Actions' window settings, abilities, blocked buffs, blocked pet buffs, disciplines, hotbar settings, socials, and saved spell sets. It is located in the root EverQuest folder: **`C:\EverQuest\<character>_<server>.ini`**, where `<character>` represents the character name, and `<server>` represents the [server short name](general/server-short-names.md).
 
 **`UI_<character>_<server>.ini`**
-::    This file stores character-specific User Interface (UI) settings, such as window locations, window fade delay settings, chat channel autojoin settings (including channel names and applicable passwords), etc. It is located in the root EverQuest folder: **`C:\EverQuest\UI_<character>_<server>.ini`**, where `<character>` represents the character name, and `<server>` represents the [server short name](general/server-short-names.md).
+:   This file stores character-specific User Interface (UI) settings, such as window locations, window fade delay settings, chat channel autojoin settings (including channel names and applicable passwords), etc. It is located in the root EverQuest folder: **`C:\EverQuest\UI_<character>_<server>.ini`**, where `<character>` represents the character name, and `<server>` represents the [server short name](general/server-short-names.md).
 
 **`AT_default_<character>_<server>.ini`**
-::    This file is used to store character specific in-game audio triggers. When using the in-game Audio Triggers, any custom .wav files should be saved in the **`C:\EverQuest\AudioTriggers\shared`** folder. The file is found in the EverQuest\userdata folder: **`C:\EverQuest\userdata\AT_default_<character>_<server>.ini`**, where `<character>` is the character name and `<server>` is the [server short name](general/server-short-names.md).
+:   This file is used to store character specific in-game audio triggers. When using the in-game Audio Triggers, any custom .wav files should be saved in the **`C:\EverQuest\AudioTriggers\shared`** folder. The file is found in the EverQuest\userdata folder: **`C:\EverQuest\userdata\AT_default_<character>_<server>.ini`**, where `<character>` is the character name and `<server>` is the [server short name](general/server-short-names.md).
