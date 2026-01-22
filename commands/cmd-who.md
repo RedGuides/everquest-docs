@@ -9,7 +9,7 @@ tags:
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/who [<name | class | race>] [all] [afk] [lfg] [corpse] [count] [guild] [<"guild name">] [<level> [<level>]]
+/who [<name | class | race>] [all] [afk] [lfg] [corpse] [count] [guild] [raid] [<"guild name">] [<level> [<level>]]
 ```
 <!--cmd-syntax-end-->
 
@@ -41,6 +41,9 @@ Search for characters in the current zone or across all zones. The command can a
 
 **guild**
 :   Show your guildmates in the current zone.
+
+**raid**
+:   Show players in your raid, including their level, class, name, and raid group.
 
 **`<"guild name">`**
 :   Show members of the specified guild (use quotes).

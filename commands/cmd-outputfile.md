@@ -9,7 +9,7 @@ tags:
 
 <!--cmd-syntax-start-->
 ```eqcommand
-/outputfile [ achievements [<filter>] | faction | guild | guildbank | guildhall | guildlobby | inventory | missingspells | raid | realestate | recipes <argument> | spellbook ] [<filename>]
+/outputfile [ achievements [<filter>] | faction | guild | guildbank | guildhall | guildlobby | inventory | missingspells | raid | realestate | recipes <all | alchemy | baking | blacksmithing | brewing | fishing | fletching | jewelcrafting | poisonmaking | pottery | research | tailoring | tinkering> | spellbook ] [<filename>]
 ```
 <!--cmd-syntax-end-->
 
@@ -51,8 +51,8 @@ Export data to the default or specified file. The file is saved as `<player>_<se
 **`realestate`**
 :   Real estate data
 
-**`recipes`** `[alchemy | baking | blacksmithing | brewing | fishing | fletching | jewelcrafting | poisonmaking | pottery | research | tailoring | tinkering] <[filename]>`
-:   Outputs the names of tradeskill recipes you know if they qualify you for additional skill points past the cap.
+**`recipes`** `<all | alchemy | baking | blacksmithing | brewing | fishing | fletching | jewelcrafting | poisonmaking | pottery | research | tailoring | tinkering>`
+:   Outputs the names of tradeskill recipes you know if they qualify you for additional skill points past the cap. If 'all' is specified, a separate file is created for each tradeskill using the default file names. For individual tradeskills, the optional filename parameter can be used to specify the output file name.
 
 **`spellbook`**
 :   Outputs all spells and combat abilities in your spell book. Entries are sorted by level and then alphabetically by name.
