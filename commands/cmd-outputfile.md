@@ -16,7 +16,7 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Export data to the default or specified file. The file is saved as `<player>_<server>-<parameter>.txt` in the root folder. If a filename is specified and does not end with '.txt', the extension is automatically appended. 
+Export data to the default or specified file. The file is saved as `<player>_<server>-<parameter>.txt` in the root folder. If a filename is specified and does not end with '.txt', the extension is automatically appended.
 <!--cmd-desc-end-->
 
 ## Options
