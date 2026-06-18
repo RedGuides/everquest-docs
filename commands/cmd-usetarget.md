@@ -16,5 +16,5 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Simulates a 'right-click' on a targeted NPC, or left click on targeted player. Useful when merchants are covered in other players, making them hard to click.
+Simulates a 'right-click' on a targeted NPC, or left click on targeted player. Useful when merchants are covered in other players, making them hard to click. When holding an item, /usetarget prioritizes trading with merchants and guild masters instead of interacting with them.
 <!--cmd-desc-end-->
