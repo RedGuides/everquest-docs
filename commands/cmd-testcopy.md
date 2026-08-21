@@ -16,7 +16,7 @@ tags:
 ## Description
 
 <!--cmd-desc-start-->
-Copies character to the Test Server.
+Copies a character to the Test Server. If the copy cannot be completed, an error message is displayed.
 <!--cmd-desc-end-->
 
 ## See also
